@@ -1,0 +1,2197 @@
+Starting pthread dotproduct without mutex lock
+Sum =  16000000.000000 
+It took 0.094701 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094909 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087803 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089255 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093406 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096368 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088657 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087365 seconds to execute 
+Sum =  16000000.000000 
+It took 0.074744 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081715 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082597 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087409 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080606 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096147 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093176 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092622 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089425 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088932 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093344 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089382 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095531 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086695 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095215 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085052 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083428 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087527 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087995 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088044 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089657 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093512 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091783 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090786 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089343 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092014 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080721 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087165 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087866 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097115 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089538 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095499 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083818 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082980 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092696 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089399 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086024 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093200 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082370 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081742 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093366 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085620 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095454 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088505 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084801 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094989 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082527 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084995 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090602 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086811 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081744 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095655 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086023 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095230 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093884 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087820 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090304 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093456 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081051 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093773 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095169 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087353 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084738 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089559 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096190 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091453 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089867 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089912 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087826 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093265 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081824 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092784 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092959 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087150 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095466 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091354 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089636 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079244 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082504 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082461 seconds to execute 
+Sum =  16000000.000000 
+It took 0.077563 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083580 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087553 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084618 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093477 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096319 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090852 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094071 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079258 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095149 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090703 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095381 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090279 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092746 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088859 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089793 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093228 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082316 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086049 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083662 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095542 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088240 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096491 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089597 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089870 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084358 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093546 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083891 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084860 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081573 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091976 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095187 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095145 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093608 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083485 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094137 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093384 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093045 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091827 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087339 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092823 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086822 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091857 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095185 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087607 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096332 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092228 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093757 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082373 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088186 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088526 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090958 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092506 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086858 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092261 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094316 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092820 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091789 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093750 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093330 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089066 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095453 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091903 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093575 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092308 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083974 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089887 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093539 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096316 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095577 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090700 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079238 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085114 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092879 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091829 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096117 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093641 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096338 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083838 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088522 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094934 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093266 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087912 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091624 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087438 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094266 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091942 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093549 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091954 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086777 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086904 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092402 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086553 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091163 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084921 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082865 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086791 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097490 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089476 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095013 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094799 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092599 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089339 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092508 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088378 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085401 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083130 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089989 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094245 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080625 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091734 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087207 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079744 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088478 seconds to execute 
+Sum =  16000000.000000 
+It took 0.076138 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092065 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090981 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091273 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097328 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079987 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090037 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082175 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086497 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094636 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091270 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091719 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083592 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091199 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095503 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095368 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090631 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088057 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085526 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093177 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096378 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083388 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093990 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089126 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083990 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090123 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080438 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095074 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095971 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096761 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093780 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084645 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094411 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081082 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087533 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094798 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090502 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095030 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093704 seconds to execute 
+Sum =  16000000.000000 
+It took 0.098509 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092022 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094737 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088822 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092996 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088344 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090516 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084556 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088392 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084033 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091523 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092345 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091686 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085236 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093539 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092339 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091546 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090618 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095076 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084218 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097473 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085427 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087433 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081388 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093846 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091404 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082764 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092729 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089746 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090302 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093774 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096930 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084039 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095636 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094584 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085837 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093215 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094099 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092369 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092198 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090771 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081203 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093132 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091581 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093450 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093824 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094419 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079892 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090529 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093887 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091460 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093442 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090778 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089943 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093290 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094821 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093597 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086267 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095650 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085061 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080863 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092753 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079283 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091359 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090332 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083289 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080691 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089806 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086032 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084310 seconds to execute 
+Sum =  16000000.000000 
+It took 0.075020 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080428 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092598 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092412 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096530 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090332 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092515 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091848 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091015 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092989 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092200 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083623 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095099 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093102 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093090 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092355 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092442 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091005 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093863 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089958 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090195 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091650 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088436 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092205 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091151 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092538 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080530 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097906 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084782 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091496 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081835 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094160 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094728 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096310 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094682 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090887 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091556 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081110 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083714 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090445 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086362 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090926 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089874 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095425 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087531 seconds to execute 
+Sum =  16000000.000000 
+It took 0.099620 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092514 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089474 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087226 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082580 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088609 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086685 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093817 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092046 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090111 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083369 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092871 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095162 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091260 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086238 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093383 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094301 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089219 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079173 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089246 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091448 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082050 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091280 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095218 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097783 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083347 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089942 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087677 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087889 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092551 seconds to execute 
+Sum =  16000000.000000 
+It took 0.098298 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092655 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095834 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088245 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082633 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089538 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093446 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091915 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086648 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096000 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092679 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096112 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097283 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089045 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092097 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096833 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086586 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086280 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094099 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081348 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093438 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093692 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083540 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085093 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085716 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095153 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093145 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092417 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096401 seconds to execute 
+Sum =  16000000.000000 
+It took 0.077005 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095431 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087005 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089610 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094322 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094441 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095336 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083574 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087215 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088810 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085907 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093894 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095933 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087947 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086288 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096168 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086332 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087737 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087658 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097398 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091759 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088890 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095756 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087553 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092077 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097466 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087559 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091142 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093368 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088176 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097394 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089037 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094755 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091546 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087009 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088288 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087302 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094445 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096159 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081560 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091526 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083014 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081875 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091140 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094810 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090480 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091490 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087563 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094794 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093627 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096284 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079294 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086984 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094917 seconds to execute 
+Sum =  16000000.000000 
+It took 0.064975 seconds to execute 
+Sum =  16000000.000000 
+It took 0.072467 seconds to execute 
+Sum =  16000000.000000 
+It took 0.075689 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087709 seconds to execute 
+Sum =  16000000.000000 
+It took 0.076409 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087408 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078710 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081107 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087071 seconds to execute 
+Sum =  16000000.000000 
+It took 0.102894 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081192 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081315 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086031 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089790 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087832 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091544 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089067 seconds to execute 
+Sum =  16000000.000000 
+It took 0.073563 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086679 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090760 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085564 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087433 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081374 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085474 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089689 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093286 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079229 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079917 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093765 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088805 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085500 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088435 seconds to execute 
+Sum =  16000000.000000 
+It took 0.077255 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092489 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081120 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093426 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090064 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091641 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091251 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085989 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092412 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084781 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081467 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090867 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089060 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079855 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082307 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090133 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088229 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085621 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093685 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090501 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091010 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088609 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090531 seconds to execute 
+Sum =  16000000.000000 
+It took 0.075602 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083286 seconds to execute 
+Sum =  16000000.000000 
+It took 0.073164 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079940 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092419 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092970 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091692 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089666 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093157 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086312 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087983 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090074 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088665 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093433 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092936 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092804 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087246 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084377 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090128 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090900 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090942 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093287 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088873 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079854 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089921 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084999 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083681 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086159 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082334 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091563 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084249 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088609 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085757 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078151 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081922 seconds to execute 
+Sum =  16000000.000000 
+It took 0.073268 seconds to execute 
+Sum =  16000000.000000 
+It took 0.077315 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081550 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085528 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090089 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094325 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092824 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078341 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083997 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079653 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088038 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090989 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091659 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091214 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091395 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090852 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089104 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089201 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080802 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089327 seconds to execute 
+Sum =  16000000.000000 
+It took 0.077472 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086507 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081751 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094578 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081906 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089205 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090634 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081390 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086965 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084677 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091204 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088821 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085745 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083526 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091967 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082869 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093571 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085458 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094099 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079641 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083508 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086300 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087837 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090874 seconds to execute 
+Sum =  16000000.000000 
+It took 0.076575 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093467 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096403 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089497 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090908 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092914 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080480 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079122 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089201 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093955 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087147 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091625 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093016 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085927 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087594 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086340 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089930 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091356 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082846 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092636 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094205 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089945 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090369 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085571 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083360 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088156 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080930 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089876 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088727 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091629 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085152 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078294 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086614 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090610 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091340 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080840 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079365 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084699 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080766 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087662 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091703 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080480 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090636 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089053 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079000 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092877 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082899 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083689 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088273 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082218 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081543 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089633 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085820 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092393 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078535 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088464 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091005 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079286 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088883 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089140 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090810 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087374 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082698 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087606 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094067 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091889 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091578 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088359 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094617 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090913 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087115 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083777 seconds to execute 
+Sum =  16000000.000000 
+It took 0.077886 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093546 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087906 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081258 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089883 seconds to execute 
+Sum =  16000000.000000 
+It took 0.077677 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090245 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082913 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084814 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091554 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088739 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089399 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094446 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096353 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089803 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084331 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079705 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091395 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094776 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090555 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086976 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091133 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086874 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086785 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079829 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091655 seconds to execute 
+Sum =  16000000.000000 
+It took 0.077986 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090330 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093077 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093680 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084292 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091186 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086903 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091717 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087748 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092875 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095165 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092395 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085767 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088367 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083109 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085485 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092017 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092538 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092051 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088150 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093901 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094730 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093053 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095051 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080351 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095807 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086365 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091458 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087022 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080484 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081163 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092046 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091375 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095741 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079117 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094765 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090531 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091513 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090209 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094328 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091190 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089956 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088123 seconds to execute 
+Sum =  16000000.000000 
+It took 0.076623 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093329 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094428 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090460 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092293 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093712 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082147 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089098 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095428 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094642 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087394 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087789 seconds to execute 
+Sum =  12000000.000000 
+It took 0.093738 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078346 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084423 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092327 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091645 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092709 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084352 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082687 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079013 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080640 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079465 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089554 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090890 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087678 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083179 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086078 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089999 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095303 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092198 seconds to execute 
+Sum =  16000000.000000 
+It took 0.072734 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080130 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090594 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086714 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085390 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085428 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082323 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086525 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083620 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081215 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093399 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080457 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080509 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084932 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079757 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089144 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089032 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090876 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085385 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088591 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081650 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088450 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090592 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087549 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086732 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084898 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090715 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087446 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085070 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093080 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088299 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087448 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087702 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085824 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086540 seconds to execute 
+Sum =  12000000.000000 
+It took 0.086924 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079823 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089308 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086242 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091834 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094061 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082508 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078079 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078588 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095003 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085097 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087925 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087903 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097241 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082682 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091732 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096660 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090886 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088338 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091318 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092989 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089127 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091245 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091575 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079261 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090866 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087460 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084171 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086814 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092718 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082729 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092530 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094830 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087241 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093565 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091377 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080949 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091327 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090051 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084663 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091138 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078530 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090194 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079778 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082644 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084251 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085960 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079772 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088073 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081004 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094506 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090710 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088958 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094812 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081165 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093626 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088829 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088903 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093451 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093531 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085156 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089816 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083860 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086992 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094819 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085444 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088609 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095775 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088768 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095509 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078147 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089826 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087697 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092196 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083286 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096343 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084971 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090495 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082350 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080929 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091579 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094887 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081463 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091885 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092595 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091659 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078616 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085505 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095765 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087770 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093800 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089033 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092805 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096574 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086537 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087355 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090080 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086616 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090359 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080240 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086566 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085214 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087237 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079772 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078649 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089392 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079635 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088633 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088533 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091991 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080428 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091221 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094137 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086601 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090778 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083766 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089065 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091805 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082144 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091590 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089840 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080418 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092562 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093934 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096327 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090058 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091225 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088859 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091595 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092695 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093304 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084921 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091637 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092428 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091768 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081816 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093720 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092456 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083685 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087044 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089770 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085918 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095281 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093344 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091468 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090901 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089989 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087226 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083096 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080017 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087863 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083562 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095489 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090650 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094527 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088993 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095317 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090267 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090408 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085987 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095058 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080591 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091359 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085585 seconds to execute 
+Sum =  16000000.000000 
+It took 0.097540 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094060 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095387 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082047 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087753 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086730 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092851 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083862 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092108 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080046 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093150 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086549 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089918 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095068 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091477 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083688 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089997 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078312 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088053 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090119 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084669 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086624 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084455 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087179 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093768 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093468 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081067 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085676 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080620 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090285 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079033 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084087 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085608 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096541 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084989 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082590 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092973 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087104 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094414 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080274 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084942 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089829 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083526 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094062 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094730 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092649 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086851 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093527 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084281 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087477 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096705 seconds to execute 
+Sum =  16000000.000000 
+It took 0.087116 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078769 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091171 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078164 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094783 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080886 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091048 seconds to execute 
+Sum =  16000000.000000 
+It took 0.078435 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089873 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080837 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091919 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083265 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091823 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083844 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085734 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089645 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088774 seconds to execute 
+Sum =  16000000.000000 
+It took 0.080870 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086433 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079687 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091817 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086149 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083541 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089268 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082134 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082926 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090360 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091126 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090010 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084221 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092781 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093164 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088773 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092902 seconds to execute 
+Sum =  16000000.000000 
+It took 0.082327 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086357 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090677 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094326 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092558 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095182 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084848 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088140 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085758 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093833 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085511 seconds to execute 
+Sum =  16000000.000000 
+It took 0.086319 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093535 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094948 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088040 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090228 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094691 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088577 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084697 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089746 seconds to execute 
+Sum =  16000000.000000 
+It took 0.084256 seconds to execute 
+Sum =  16000000.000000 
+It took 0.089366 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093627 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092385 seconds to execute 
+Sum =  16000000.000000 
+It took 0.083608 seconds to execute 
+Sum =  16000000.000000 
+It took 0.090623 seconds to execute 
+Sum =  16000000.000000 
+It took 0.079792 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088744 seconds to execute 
+Sum =  16000000.000000 
+It took 0.092089 seconds to execute 
+Sum =  16000000.000000 
+It took 0.093961 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095663 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094120 seconds to execute 
+Sum =  16000000.000000 
+It took 0.085108 seconds to execute 
+Sum =  16000000.000000 
+It took 0.088269 seconds to execute 
+Sum =  16000000.000000 
+It took 0.081392 seconds to execute 
+Sum =  16000000.000000 
+It took 0.091204 seconds to execute 
+Sum =  16000000.000000 
+It took 0.095733 seconds to execute 
+Sum =  16000000.000000 
+It took 0.096005 seconds to execute 
+Sum =  16000000.000000 
+It took 0.094687 seconds to execute 
